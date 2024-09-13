@@ -1,0 +1,8 @@
+<suite name = "Rest API Suite">
+    <test name="API Testing">
+        <classes>
+            <class name="airlines.AirlineTests">
+            </class>
+        </classes>
+    </test>
+</suite>
